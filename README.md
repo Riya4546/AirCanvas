@@ -46,3 +46,17 @@ Users can:
 - c:Clear canvas
 - s:Save drawing
 - q:Quit application
+ ---
+  ## Installation
+  Clone the repository:
+
+  git clone https://github.com/your-username/AirCanvas.git 
+  cd AirCanvas
+
+  Install dependencies:
+
+  pip install -r requirements.txt
+
+  Run the application:
+
+python app.py
