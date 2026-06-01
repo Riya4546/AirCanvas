@@ -50,7 +50,7 @@ Users can:
   ## Installation
   Clone the repository:
 
-  git clone https://github.com/your-username/AirCanvas.git 
+  git clone https://github.com/Riya4546/AirCanvas.git
   cd AirCanvas
 
   Install dependencies:
